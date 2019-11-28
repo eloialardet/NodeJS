@@ -12,8 +12,10 @@ Our second part of the second lab of node js. It is about using typescript with 
 
 1.  From the terminal, go to the project repository
 2.  Launch either mamp on Mac or wamp on Windows
-3.  Run the command : 'npm run start'
-4.  Open a web browser and request the following url: 'http://localhost:1337/'
+3.  Run the command : `npm run start`
+4.  Open a web browser and request the following url: http://localhost:1337/    
+**Note :**    
+If any problem occurs during compiling, try deleting node modules and package-lock.json and run `npm install`
 
 ## Names
 
