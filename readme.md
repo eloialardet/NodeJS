@@ -7,9 +7,9 @@ The work of each week can be found in the different "week" folders.
 
 ## Table of contents
 
-lab-1-hello - First Node & Git project lab
-lab-2-express - ExpressJS lab 
-lab-2-typescript - TypeScript lab
+lab-1-hello - First Node & Git project lab  
+lab-2-express - ExpressJS lab   
+lab-2-typescript - TypeScript lab  
 
 ## Names
 
