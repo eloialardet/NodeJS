@@ -1,6 +1,6 @@
-# Syllabus
+# Alardet Eloi - Cauquelin Louis
 
-## Title
+## TypeScript Lab
 Node JS course
 Lab 2.1 - Using typescript
 

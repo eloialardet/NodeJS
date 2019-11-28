@@ -1,6 +1,6 @@
-# Syllabus
+# Cauquelin Louis - Alardet Eloi
 
-## Title
+## Express
 Node JS course
 Lab 2 - Using express
 
