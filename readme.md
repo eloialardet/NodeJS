@@ -1,19 +1,15 @@
-# Syllabus
-
-## Title
-
-Lab 1 - Node js
+# Cauquelin Louis and Alardet Eloi node labs
 
 ## Introduction
 
-This is the first lab of node js course. This piece of code answers to different URL requests.
+This git repository contains/will contain all the labs which will be requested during the node course.
+The work of each week can be found in the different "week" folders.
 
-## Run instructions
+## Table of contents
 
-1.  From the terminal, go to the project repository
-2.  Launch either mamp on Mac or wamp on Windows
-3.  Run the command : 'node index'
-4.  Open a web browser and request the following url: 'http://localhost:8080/'
+lab-1-hello - First Node & Git project lab
+lab-2-express - ExpressJS lab 
+lab-2-typescript - TypeScript lab
 
 ## Names
 
