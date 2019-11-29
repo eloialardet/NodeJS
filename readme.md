@@ -13,6 +13,6 @@ lab-2-typescript - TypeScript lab
 
 ## Names
 
-CAUQUELIN Louis
-ALARDET Eloi
+CAUQUELIN Louis  
+ALARDET Eloi  
 ING 4 - SI 03
